@@ -2140,7 +2140,8 @@
 			},
 			"core/heading": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--LoveYaLikeASister)"
+					"fontFamily": "var(--wp--preset--font-family--LoveYaLikeASister)",
+					"fontWeight": "300"
 				},
 				"variations": {
 					"text-annotation": {
